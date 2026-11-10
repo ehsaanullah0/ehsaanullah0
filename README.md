@@ -3,4 +3,4 @@
 <h1 align="center">Hey, I'm EHSAAN ULLAH 👋</h1>
 
 <p align="center">
-  CS Student | Aspiring Developer
+  CS Student | Aspiring Developer | if fond any security flaw or any bug report on woesmon@protn.me
