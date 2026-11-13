@@ -1,6 +1,11 @@
-<img width="1796" height="876" alt="Ehsaan ULLAH" src="https://github.com/user-attachments/assets/68630d20-e4d1-492c-ab24-659bfdd98f82" />
+## Hey, I'm EHSAAN ULLAH 
+CS Student | Aspiring Developer.
+intrested to test how ai models are capable to make the imaginations into reality from there'
+i have these projects
+- EHSAAN PLAY
+- EHSAAN QR
+- EHSAAN COMPRESS
+- EHSAAN FLOW
 
-<h1 align="center">Hey, I'm EHSAAN ULLAH 👋</h1>
 
-<p align="center">
-  CS Student | Aspiring Developer | if fond any security flaw or any bug report on woesmon@protn.me
+## if fond any security flaw or any bug report on woesmon@protn.me
