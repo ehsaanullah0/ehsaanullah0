@@ -26,4 +26,5 @@ i have these projects
   
 ## if fond any security flaw or any bug report on worsmon@protn.me
 
+![Snake animation](https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/github-contribution-grid-snake-dark.svg)
 <div>
