@@ -28,3 +28,9 @@ i have these projects
 
 ![Snake animation](https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/github-contribution-grid-snake-dark.svg)
 <div>
+
+<p align="center">
+  <a href="https://ehsaan.odoo.com/support">
+    <img src="assets/reademe/light/btn-support-ehsaanplay.svg" alt="Support the EHSAAN PLAY project" height="68">
+  </a>
+</p>
