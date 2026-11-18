@@ -31,6 +31,6 @@ i have these projects
 
 <p align="center">
   <a href="https://ehsaan.odoo.com/support">
-    <img src="assets/reademe/light/btn-support-ehsaanplay.svg" alt="Support the EHSAAN PLAY project" height="68">
+ <img width="400" hight="75"src="https://github.com/user-attachments/assets/91e1530d-02fc-4755-b667-6c2562283736" />
   </a>
 </p>
