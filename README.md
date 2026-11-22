@@ -26,9 +26,6 @@ i have these projects
   
 ## if fond any security flaw or any bug report on worsmon@proton.me
 
-![Snake animation](https://raw.githubusercontent.com/fraisasghar/fraisasghar/output/github-contribution-grid-snake-dark.svg)
-<div>
-
 <p align="center">
   <a href="https://ehsaan.odoo.com/support">
  <img width="400" hight="75"src="https://github.com/user-attachments/assets/91e1530d-02fc-4755-b667-6c2562283736" />
